@@ -6,9 +6,11 @@ kept out of the app so the APK stays small and sprites can be updated without a 
 - `manifest.json` lists every pack with its size and SHA-256. The app reads it at start-up,
   downloads any pack it doesn't have (or whose hash changed) and keeps it on the phone.
 - `packs/units-*.aoe2pack`: unit animations (idle, walk, attack, death) for every land unit the app
-  shows, including siege, camels and Monks, plus grass and projectiles.
+  shows, including siege, camels and Monks, plus grass and every projectile (and Chemistry's burning versions).
+- `packs/terrain.aoe2pack`: water, shallows, wet sand and beach textures, and trees, bushes and reeds
+  for the river banks.
 - `packs/buildings.aoe2pack`: Barracks, Archery Range, Stable, Castle, Market, Blacksmith,
-  Siege Workshop, Monastery and Wonder for every architecture set (each civ's own Wonder and Castle), and which set each civ uses.
+  Siege Workshop, Monastery and Wonder for every architecture set (each civ's own Wonder and Castle), and which set each civ uses, plus the rubble each building type leaves.
 
 Format 2: each frame is stored once (facing right) with its player-colour mask; the app tints the
 mask with each player's colour, the way the game does.
