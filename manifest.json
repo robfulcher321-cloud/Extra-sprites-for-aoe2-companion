@@ -1,12 +1,12 @@
 {
  "format": 2,
- "updated": "2026-10-30T13:15:54Z",
+ "updated": "2026-10-30T17:03:57Z",
  "files": [
   {
    "name": "buildings.aoe2pack",
    "kind": "buildings",
-   "size": 12222252,
-   "sha256": "66f7629e5dd134eae3783e589b383f064517e2a6f7e5477c0231b17c76ddb5cf"
+   "size": 13692285,
+   "sha256": "e408f398297390a41d7633a55779029c3fbaddf539f5e5bec02b02a17f627aaf"
   },
   {
    "name": "terrain.aoe2pack",
