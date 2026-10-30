@@ -1,0 +1,30 @@
+{
+ "format": 2,
+ "updated": "2026-10-30T12:01:28Z",
+ "files": [
+  {
+   "name": "buildings.aoe2pack",
+   "kind": "buildings",
+   "size": 7271931,
+   "sha256": "24e304892c58d796f30f3718bfac2ae1f0aa8f19472f170c74ab69d28e07f5b6"
+  },
+  {
+   "name": "units-1.aoe2pack",
+   "kind": "units",
+   "size": 24375041,
+   "sha256": "e312ea3975af65583154e252bff4e0587fc410650f0b908e2e84f591fb8726f6"
+  },
+  {
+   "name": "units-2.aoe2pack",
+   "kind": "units",
+   "size": 24233379,
+   "sha256": "94817b5a6292174576a18c5c6b15ad1fff0f408c961648a8fb916b0591eca2dd"
+  },
+  {
+   "name": "units-3.aoe2pack",
+   "kind": "units",
+   "size": 12515537,
+   "sha256": "4504638d9280f12516988db5be84c994531c922f1f554529fcc054dab32aa873"
+  }
+ ]
+}
