@@ -8,7 +8,7 @@ kept out of the app so the APK stays small and sprites can be updated without a 
 - `packs/units-*.aoe2pack`: unit animations (idle, walk, attack, death) for every land unit the app
   shows, including siege, camels and Monks, plus grass and projectiles.
 - `packs/buildings.aoe2pack`: Barracks, Archery Range, Stable, Castle, Market, Blacksmith,
-  Siege Workshop and Monastery for every architecture set, and which set each civ uses.
+  Siege Workshop, Monastery and Wonder for every architecture set (each civ's own Wonder and Castle), and which set each civ uses.
 
 Format 2: each frame is stored once (facing right) with its player-colour mask; the app tints the
 mask with each player's colour, the way the game does.
